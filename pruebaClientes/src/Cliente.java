@@ -21,6 +21,7 @@ public class Cliente {
 	
 	
 	//Este metodo es especial (main) es el principal
+	//MODIFICACION 10:40 H.
 	public static void main(String[] args) {
 		String nombreC = "Juan";
 		int saldoC = 1200;
